@@ -14,8 +14,6 @@ Analyze retail transactions to understand revenue performance, customer purchasi
   ![Status](https://img.shields.io/badge/Status-Completed-success)
 </div>
 
----
-
 ## 📑 Table of Contents
 
 1. [Project Overview](#1-project-overview)
@@ -34,8 +32,6 @@ Analyze retail transactions to understand revenue performance, customer purchasi
 14. [Skills Demonstrated](#14-skills-demonstrated)
 15. [Future Improvements](#15-future-improvements)
 16. [Author](#16-author)
-
----
 
 ## 📌 Project Overview
 
